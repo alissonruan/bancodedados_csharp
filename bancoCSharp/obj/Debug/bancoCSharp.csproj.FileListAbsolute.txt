@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\bancoCSharp.exe.config
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\bancoCSharp.exe
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\bancoCSharp.pdb
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\obj\Debug\bancoCSharp.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\obj\Debug\bancoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\obj\Debug\bancoCSh.F5D41C2C.Up2Date
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\obj\Debug\bancoCSharp.exe
+C:\Users\Aluno\Desktop\bancoCSharp\bancoCSharp\obj\Debug\bancoCSharp.pdb
